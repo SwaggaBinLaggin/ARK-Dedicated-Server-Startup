@@ -1,0 +1,2 @@
+start ShooterGameServer.exe MAP HERE?listen??ServerPassword=PASWORD HERE?ServerAdminPassword=PASSWORD HERE?Port=PORT # HERE?QueryPort=27015?MaxPlayers=MAX PLAYERS HERE -useallavailablecores -usecache -automanagedmods -server -log
+exit
